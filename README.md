@@ -1,6 +1,6 @@
 # aulasdePython
 
-Conteúdo que estou aprendendo em python no curso fullstack do senac tech, materias didáticos e teóricos.
+Conteúdo que estou aprendendo em python no curso fullstack do senac tech, materias didáticos e exercícios para prática.
 
 - Tuplas
 - Listas
