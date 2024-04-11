@@ -6,5 +6,7 @@ Conteúdo que estou aprendendo em python no curso fullstack do senac tech, mater
 - Listas
 - Dicionários
 - Funções
+- Módulos
+- Pacotes
 
  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="500" height="200" />
